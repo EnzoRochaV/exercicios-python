@@ -22,3 +22,5 @@ elif t == 5:
     
 else:
     print(f'Sendo nota 1 = {x} com peso = {p1}, nota 2 = {y} com peso = {p2}, e nota 3 = {z} com peso = {p3}, o valor da media final é = {media}. Portanto, você reprovou')
+
+print("boa")
